@@ -1,0 +1,3 @@
+https://projectwork20211012152028.azurewebsites.net/api/FoodItems
+
+https://projectwork20211012152028.azurewebsites.net/Swagger

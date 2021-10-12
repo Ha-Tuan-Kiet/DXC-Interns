@@ -11,6 +11,7 @@
     <WebStackScaffolding_DbContextTypeFullName>ProjectWork.Models.ASPExcerciseContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>D:\DXC_Interns\Week02\Excercise &amp; ProjectWork\ProjectWork\ProjectWork\Properties\PublishProfiles\ProjectWork20211012152028 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
